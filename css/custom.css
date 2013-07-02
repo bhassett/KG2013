@@ -1,0 +1,10 @@
+/* CSS Document */
+
+.pagetop {
+	max-width: 62.5em;
+	padding: 1em;
+	padding: 1em calc(50% - 31.25em);
+	margin: auto;
+	color: white;
+	background: black }
+	
