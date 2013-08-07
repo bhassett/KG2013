@@ -1,0 +1,19 @@
+/* CSS Document */
+
+.pagetop {
+	max-width: 62.5em;
+	height: 10em;
+	padding: 1em;
+	padding: 1em calc(50% - 31.25em);
+	margin-left, margin-right: auto;
+	color: white;
+	background: black }
+	
+.pagetop .columns {
+	background: gray;
+	bottom: 5px;
+}
+
+.pagetop .columns:first-child {
+	background: none;
+}
